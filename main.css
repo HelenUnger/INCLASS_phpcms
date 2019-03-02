@@ -1,0 +1,16 @@
+.movies{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    text-align: center;
+}
+
+.movieBox{
+    max-width: 20%;
+    padding: 10px;
+    overflow: hidden;
+}
+
+img{
+    max-width: 100%;
+}
